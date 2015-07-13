@@ -4,7 +4,7 @@ Tags: seo, meta, open graph, twitter card
 Requires at least: 2.8
 Tested up to: 4.2
 
-Optimisaiton SEO en injectant automatiquement les balises meta Open Graph et Twitter Cards à vos articles.
+Optimisation SEO en injectant automatiquement les balises meta Open Graph et Twitter Cards à vos articles.
 
 == Description ==
 
