@@ -3,6 +3,7 @@ Contributors: Amauri CHAMPEAUX
 Tags: seo, meta, open graph, twitter card
 Requires at least: 2.8
 Tested up to: 4.2
+Stable tag: trunk
 
 Optimisation SEO en injectant automatiquement les balises meta Open Graph et Twitter Cards à vos articles.
 
